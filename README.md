@@ -47,5 +47,3 @@ The dashboard provides an interactive view of HR data across multiple dimensions
 
 ---
 
-##  Getting Started
-To view and explore the dashboard locally:
